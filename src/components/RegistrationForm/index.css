@@ -1,0 +1,65 @@
+.registration-form {
+	margin-top: 2%;
+	margin-left: 10%;
+}
+
+.valid-feedback, .invalid-feedback {
+	display: block;
+}
+
+.inputStyle{
+	font-size: 1em; color:white; background-color: black;  border: 10px solid black ; border-bottom: 1.5px solid white;
+}
+.inputStyle:focus {
+	background-color: rgb(12, 12, 12);
+	border-bottom: 1px solid white;
+	caret-color: blue
+  }
+
+.button{
+	margin-top: 15px;
+	font-size: 1em;
+	padding: 10px;
+	border-radius: 0px;
+	width: 10em;
+
+	background-color: white;
+	color: black;
+	margin-left:0%
+}
+.registration-form{
+	
+}
+h1{
+	color: aliceblue;
+	margin-top: 5%;
+	margin-left: 10%;
+}
+
+.profile{
+	margin-top: 20px;
+	margin-left: 20%;
+}
+
+.profile h1{
+	margin-left: 0px;
+}
+
+h2{
+	color: white;
+	font-size: large;
+	font-family:serif;
+	letter-spacing: 2px;
+}
+.alert{
+	color: green;
+}
+
+
+
+*{
+	background-color: black;
+}
+
+
+
